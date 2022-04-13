@@ -5,12 +5,12 @@
 
 OpenCV 페이지 바로가기 : https://opencv.org/releases/
 
+
 **2. Visual Studio 프로젝트 생성하기**
 
 1) Visual Studio의 프로젝트 속성에 Debug x64세팅
 
-**3. Visual Studio 프로젝트 속성에서 경로 설정하기
-**
+**3. Visual Studio 프로젝트 속성에서 경로 설정하기**
  
 
 1) 디렉터리 경로 추가
@@ -42,5 +42,3 @@ C/C++ > 일반 > 추가 포함 디렉터리에 경로 추가
 OpenCV 가 연동이 완료되었습니다. 
 
 
-
-출처: https://life-with-coding.tistory.com/86?category=808106 [코딩젤리]
